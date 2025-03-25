@@ -15,7 +15,7 @@ public static class Program
 
         /** yaz?m?z? gönderdik */
 
-        Console.Write("Merhaba, ?imdiye kadarki en kapsaml? projeme ho? geldiniz. Basit bir hesap makinesinden fark? dakikalar alan hesaplamalar? kolayca halledebilmemizdir. K?smen bir otomasyon diyebiliriz. kodlar?m?zdan bahsedeyim. T toplama, Ç ç?kartma, ÇA çarpma, K karesi, O 3 say?n?n ortlamas?, D dikdörtgen. komut giriniz: ");
+        Console.Write("Merhaba, şimdiye kadarki en kapsamlı projeme ho? geldiniz. Basit bir hesap makinesinden fark? dakikalar alan hesaplamalar? kolayca halledebilmemizdir. K?smen bir otomasyon diyebiliriz. kodlar?m?zdan bahsedeyim. T toplama, Ç ç?kartma, ÇA çarpma, K karesi, O 3 say?n?n ortlamas?, D dikdörtgen. komut giriniz: ");
 
 
         input = Console.ReadLine();
