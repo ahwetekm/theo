@@ -1,0 +1,15 @@
+/workspaces/theo/MyProject/bin/Debug/net8.0/MyProject
+/workspaces/theo/MyProject/bin/Debug/net8.0/MyProject.deps.json
+/workspaces/theo/MyProject/bin/Debug/net8.0/MyProject.runtimeconfig.json
+/workspaces/theo/MyProject/bin/Debug/net8.0/MyProject.dll
+/workspaces/theo/MyProject/bin/Debug/net8.0/MyProject.pdb
+/workspaces/theo/MyProject/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/theo/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/workspaces/theo/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/workspaces/theo/MyProject/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache
+/workspaces/theo/MyProject/obj/Debug/net8.0/MyProject.sourcelink.json
+/workspaces/theo/MyProject/obj/Debug/net8.0/MyProject.dll
+/workspaces/theo/MyProject/obj/Debug/net8.0/refint/MyProject.dll
+/workspaces/theo/MyProject/obj/Debug/net8.0/MyProject.pdb
+/workspaces/theo/MyProject/obj/Debug/net8.0/MyProject.genruntimeconfig.cache
+/workspaces/theo/MyProject/obj/Debug/net8.0/ref/MyProject.dll
