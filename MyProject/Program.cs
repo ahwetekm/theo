@@ -24,7 +24,7 @@ public static class Program
         /** toplama i?lemi */
         if (input == "t")
         {
-            Console.WriteLine("Toplama işlemini seçtiniz. ilk say?n?z? giriniz; ");
+            Console.WriteLine("Toplama işlemini seçtiniz. ilk sayınızı giriniz; ");
             s1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("ikinci sayınızı giriniz: ");
             s2 = Convert.ToInt32(Console.ReadLine());
@@ -35,9 +35,9 @@ public static class Program
         /** ç?kartma i?lemi */
         if (input == "ç")
         {
-            Console.WriteLine("Ç?kartma i?lemini seçtiniz. ?lk say?n?z? giriniz: ");
+            Console.WriteLine("Çıkartma işlemini seçtiniz. İlk sayınızıgiriniz: ");
             s1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("?kinci Say?n?z? giriniz: ");
+            Console.WriteLine("ikinci Sayınızı giriniz: ");
             s2 = Convert.ToInt32(Console.ReadLine());
             sonuc = (s1 - s2);
             Console.WriteLine("sonuç: " + sonuc);
