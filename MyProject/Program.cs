@@ -7,15 +7,15 @@ public static class Program
 {
     public static void Main()
     {
-        /** ilk de?i?kenlerimiz say?lar */
+        /** İlk Değişkenlerimiz Sayılar */
 
         int s1, alan, cevre, s2, s3, sonuc = 0;
 
         String input;
 
-        /** yaz?m?z? gönderdik */
+        /** yazımızı gönderdik */
 
-        Console.Write("Merhaba, şimdiye kadarki en kapsamlı projeme ho? geldiniz. Basit bir hesap makinesinden fark? dakikalar alan hesaplamalar? kolayca halledebilmemizdir. K?smen bir otomasyon diyebiliriz. kodlar?m?zdan bahsedeyim. T toplama, Ç ç?kartma, ÇA çarpma, K karesi, O 3 say?n?n ortlamas?, D dikdörtgen. komut giriniz: ");
+        Console.Write("Merhaba, şimdiye kadarki en kapsamlı projeme hoş geldiniz. Basit bir hesap makinesinden farkı dakikalar alan hesaplamaları kolayca halledebilmemizdir. Kısmen bir otomasyon diyebiliriz. kodlarımızdan bahsedeyim. T toplama, Ç çıkartma, ÇA çarpma, K karesi, O 3 sayının ortlaması, D dikdörtgen. komut giriniz: ");
 
 
         input = Console.ReadLine();
@@ -24,9 +24,9 @@ public static class Program
         /** toplama i?lemi */
         if (input == "t")
         {
-            Console.WriteLine("Toplama i?lemini seçtiniz. ilk say?n?z? giriniz; ");
+            Console.WriteLine("Toplama işlemini seçtiniz. ilk say?n?z? giriniz; ");
             s1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("?kinci say?n?z? giriniz: ");
+            Console.WriteLine("ikinci sayınızı giriniz: ");
             s2 = Convert.ToInt32(Console.ReadLine());
             sonuc = (s1 + s2);
             Console.WriteLine("Sonuç: " + sonuc);
